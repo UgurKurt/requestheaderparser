@@ -1,0 +1,14 @@
+{
+  "name": "reqheaderparser",
+  "version": "1.0.0",
+  "description": "parses the header of a request",
+  "main": "server.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
